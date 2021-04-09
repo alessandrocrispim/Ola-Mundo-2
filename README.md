@@ -40,3 +40,31 @@ Testando __*Markdown*__ para aula de git e github.
 
 [Acesse meu github](https://github.com/alessandrocrispim)
 
+
+
+# Tabela:
+***
+Num | Nome | Nota
+---|---|---
+1 | Alessandro |  8,5 
+2 | José | 10
+3 | Fulano | 9
+
+**Terminou a tabela.**
+
+Não entendo direito para que serve o comando `document.getElementByld()` da linguagem JavaScript.
+
+Olha meu programa em Python.
+```
+num= int(input('Digite um valor: ')
+if num%2==0
+    print(f'O valor {num} é PAR ')
+else:
+    print(f'O valor {num} é IMPAR ')
+
+```
+Olá, pequeno gafanhoto 🖖  ✋ 
+
+🤗 
+
+:hand
